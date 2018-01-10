@@ -11,6 +11,7 @@
 
 - [Zeplin](https://zeplin.io) - UI
 - [Draw](https://www.draw.io/) - UML
+- [XMind](http://www.xmind.net/) - Mind Mapping Tool 
 
 ### Tech
 #### Docker
