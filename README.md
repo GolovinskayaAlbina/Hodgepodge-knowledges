@@ -13,6 +13,10 @@
 - [Draw](https://www.draw.io/) - UML
 - [XMind](http://www.xmind.net/) - Mind Mapping Tool 
 
+### Libraries
+![Language](https://img.shields.io/badge/Language-JS-red.svg)
+- [Vis.js](http://visjs.org/) - Visualizations. Some example [here](http://visjs.org/examples/network/exampleApplications/lesMiserables.html)
+
 ### Tech
 #### Docker
 ![N|Solid](https://www.docker.com/sites/default/files/social/docker_facebook_share.png)
